@@ -1,6 +1,6 @@
 
 # Information about this Web project
-# 🚀 Final work template for "Basic JS. Loops and Arrays" module
+# 🚀 Final Homework  for "Basic JS. Loops and Arrays" module
 ## This project  was developed by a student of group PHPDEV31 of the course "Web Developer" of [Skillfactory](www.skillfactory.ru)
 ## by Lysov Andrey
 ---
